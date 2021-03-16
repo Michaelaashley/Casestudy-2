@@ -355,6 +355,27 @@ top: 290px;
 border-radius: 100px;
 }
 
+.row {
+    position: relative;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    top: 160px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+}
+
+.row-2 {
+    position: relative;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    top: 200px;
+    width: 500px;
+    height: 500px;
+}
+
 .lowfi-1 {
     position:relative;
     float: right;
