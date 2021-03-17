@@ -415,18 +415,29 @@ h3 {
 }
 
 .lowfi-2 {
-    width: 330px;
-    height: 636px;
+    width: 250px;
+    height: 500px;
 }
 
 .lowfi-3 {
-    width: 330px;
-    height: 636px;
+    width: 250px;
+    height: 500px;
+}
+
+.lowfi-4 {
+    width: 250px;
+    height: 500px;
+}
+
+.lowfi-5 {
+    width: 250px;
+    height: 500px;
 }
 
 .flex-container {
-    padding-left: 80px;
+    padding-left: 180px;
     justify-content: space-between;
+    margin-top: 450px;
 }
 
 
@@ -461,27 +472,66 @@ line-height: 30px;
     font-family: "Mulish";
     font-style: normal;
     padding-right: 5%;
-    top: -290px;
+    top: 200px;
     right: 100px;
     font-size: 18px;
 }
 
-.hifi-splash {
+.homepage {
     position:relative;
     float: left;
     display: flex;
     margin:-8%;
     padding-left: 25%;
-    top: 50px;
-    width: 370px;
-    height: 636px;
-    right: 100px;
+    top: -100px;
+    width: 490px;
+    height: 900px;
+    right: 90px;
+}
+
+.row-3 {
+    position: relative;
+    margin: auto;
+    display: flex;
+    margin-top: 80%;
+    left: 10%;
 }
 
 .container {
     position: relative;
-    padding-left: 9%;
-    margin-top: 58%;
+    padding-left: 8%;
+    margin-top: 10%;
+}
+
+.screen-1 {
+    width: 390px;
+    height: 784px;
+}
+
+.screen-2 {
+    width: 390px;
+    height: 784px;
+}
+
+.screen-3 {
+    width: 390px;
+    height: 784px;
+}
+
+.thanks {
+    position: relative;
+    margin: auto;
+    padding-left: 38%;
+    text-decoration: none;
+}
+
+.teamwork {
+    position: relative;
+    padding-top: 15%;
+    padding-left: 20%;
+    margin: auto;
+    width: 800px;
+    height: 400px;
 }
 
 h4 {
@@ -517,6 +567,36 @@ font-style: normal;
 font-weight: normal;
 font-size: 20px;
 line-height: 38px;
+}
+
+.wrapper-1 {
+    position: relative;
+    justify-content: space-evenly;
+    padding-left: 33%;
+    margin-top: 5%;
+}
+
+
+.link-1 {
+    font-family: "Mulish";
+    font-size: 30px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.link-2 {
+    font-family: "Mulish";
+    font-size: 30px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.link-1:hover {
+    color:#64BFBA;
+}
+
+.link-2:hover {
+    color:#64BFBA;
 }
 
 .end {
